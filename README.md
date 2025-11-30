@@ -1,2 +1,2 @@
-# boboarts.github.io
+# Hello Gary
 home page of boboarts on github
